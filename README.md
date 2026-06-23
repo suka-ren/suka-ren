@@ -18,6 +18,10 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpkNjhwaGNxa2FzdjdxOG5kazNhdHBuaWNvYTU5ZmtiM3hjeno0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VfKtvU52eOZzZSK6v1/giphy.gif"  width="100"/>
   <div id="header" align="center">
 <img src="https://media.tenor.com/AXykm9LXOTQAAAAd/tyler-the-creator-chromakopia.gif"  width="100"/>
+  <div id="header" align="center">
+<img src="https://i.ytimg.com/vi/u72hC37Kz2w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAeQ3U0afvX_bbiRXfd3l8ee9eqqA"  width="100"/> 
+     <div id="header" align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LSP_logo.jpg/330px-LSP_logo.jpg"  width="100"/> 
 <div id="header" align="center">
  <img src="https://gifcity.carrd.co/assets/images/gallery42/276c8870.gif?v=3fc8f5cd" width="700px"/>
  </div>
