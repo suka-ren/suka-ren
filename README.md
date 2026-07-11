@@ -2,7 +2,7 @@
  <img src="https://gifcity.carrd.co/assets/images/gallery42/276c8870.gif?v=3fc8f5cd" width="700px"/>
 </h1>
 <div id="header" align="center">
- хай я ренч
+ хай я ренч залетайте на твич, переодически стримлю идв (в основном), разные игрули бывает https://www.twitch.tv/27rr777
   <img src="https://gifcity.carrd.co/assets/images/gallery268/a437c9d1.gif?v=3fc8f5cd" width="30px"/>
 </h1>
 <div id="header" align="center">
