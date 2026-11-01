@@ -8,7 +8,7 @@
 </h1>
 <div id="header" align="center">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5uZ2wyc202ZXF0bGh3a2FmdDByeWl3OHg5OHN6cHg4eHNsY3dxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9ZmFSeZbmlMXoF02H/giphy.gif width="200"/>
-
+ <img src="https://i.pinimg.com/736x/f1/ee/a0/f1eea0f919c87d6d7779703e1ec28ec9.jpg" width="700px"/>
   <div id="header" align="center">
 <img src="https://www.pngarts.com/files/11/Music-Text-PNG-Download-Image.png"  width="200"/>
 <div id="header" align="center">
