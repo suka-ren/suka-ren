@@ -4,6 +4,7 @@
 <div id="header" align="center">
  хай я ренч рисую картинки 
  тгк https://t.me/rench27rr
+ https://rench27.straw.page/
   <img src="https://gifcity.carrd.co/assets/images/gallery268/a437c9d1.gif?v=3fc8f5cd" width="30px"/>
 </h1>
 <div id="header" align="center">
