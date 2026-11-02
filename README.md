@@ -4,9 +4,11 @@
 <div id="header" align="center">
  хай я ренч рисую картинки 
  тгк https://t.me/rench27rr
- https://rench27.straw.page/
   <img src="https://gifcity.carrd.co/assets/images/gallery268/a437c9d1.gif?v=3fc8f5cd" width="30px"/>
 </h1>
+ </h1>
+<div id="header" align="center">
+ https://rench27.straw.page/
 <div id="header" align="center">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5uZ2wyc202ZXF0bGh3a2FmdDByeWl3OHg5OHN6cHg4eHNsY3dxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9ZmFSeZbmlMXoF02H/giphy.gif width="200"/>
  <img src="https://i.pinimg.com/736x/f1/ee/a0/f1eea0f919c87d6d7779703e1ec28ec9.jpg" width="700px"/>
